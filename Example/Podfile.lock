@@ -1,0 +1,16 @@
+PODS:
+  - DAKeychain (1.1.0)
+
+DEPENDENCIES:
+  - DAKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  DAKeychain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DAKeychain: 98066aa50f5706726f63191493616b416717638c
+
+PODFILE CHECKSUM: 9b59d8c138f2fcdf551a478bbef1c9081aded674
+
+COCOAPODS: 1.5.3
